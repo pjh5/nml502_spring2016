@@ -1,8 +1,4 @@
 Artist: Eminem
-Album:  The Slim Shady LP
-Song:   Public Service Announcement
-Typed by: «exy«y
-
 [Announcer]
 This is a public service announcement brought to you in part by Slim Shady
 The views and events expressed here are totally fucked
