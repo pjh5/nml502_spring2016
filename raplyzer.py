@@ -52,7 +52,6 @@ def read_lyrics(lyrics_dir='lyrics_en', artist=None, album=None,
             albums = [album]
         else:
             albums = os.listdir(lyrics_dir+'/'+a)
-            albums = sort_albums_by_year(albums)
         for al in albums:
             album_rls = []
             songs = os.listdir(lyrics_dir+'/'+a+'/'+al)
@@ -63,8 +62,12 @@ def read_lyrics(lyrics_dir='lyrics_en', artist=None, album=None,
                 try:
                     l = Lyrics(file_name, print_stats=print_stats, 
                            language=language, lookback=lookback)
+                    long_r = l.get_longest_rhyme()
+                    avg_r = l.get_avg_rhyme_length()
                 except:
                   print 'Exception reading file ', file_name
+                  long_r = (-1, "")
+                  avg_r = -1
                 else:
                     rl = l.get_avg_rhyme_length()
                     rls.append(rl)
@@ -85,23 +88,20 @@ def read_lyrics(lyrics_dir='lyrics_en', artist=None, album=None,
                         all_words += text.split()
                         
                     # Print song statistics
-                    long_r = l.get_longest_rhyme()
-                    avg_r = l.get_avg_rhyme_length()
                     n_uwords = len(set(text))
                     n_words = len(text)
                     per_uwords = n_uwords / float(n_words)
-                    print "%s - %s - %s:" % (a, al, song)
-                    print "\tLongest Rhyme  : %d" % long_r[0]
-                    print "\tAverage Rhyme  : %.3f" % avg_r
-                    print "\tNumber Words   : %d" % n_words
-                    print "\tUnique Words   : %d" % n_uwords
-                    print "\tPercent Unique : %.3f" % per_uwords
-                    print "\tLongest Rhyme  : %s" % long_r[1]
-                    print "\n"
+                    # print "%s - %s - %s:" % (a, al, song)
+                    # print "\tLongest Rhyme  : %d" % long_r[0]
+                    # print "\tAverage Rhyme  : %.3f" % avg_r
+                    # print "\tNumber Words   : %d" % n_words
+                    # print "\tUnique Words   : %d" % n_uwords
+                    # print "\tPercent Unique : %.3f" % per_uwords
+                    # print "\n"
                     with open('raplyzer_out.csv', 'a') as csvfile:
                         csvwriter = csv.writer(csvfile, delimiter=',',
                                                 quotechar='|', quoting=csv.QUOTE_MINIMAL)
-                        csvwriter.writerow([a, al, song, long_r[0], avg_r, n_words, n_uwords, per_uwords])
+                        csvwriter.writerow([al, song, long_r[0], avg_r, n_words, n_uwords, per_uwords])
                     
             # Print stats for the album
             print "%s - %s: %.3f" % (a, al, np.mean(np.array(album_rls)))
@@ -146,19 +146,6 @@ def read_lyrics(lyrics_dir='lyrics_en', artist=None, album=None,
         name = rx.sub(' ', artists[i])
         print '%d.\t%.3f\t%s' % (i+1, artist_scores[i], name)
         
-
-def sort_albums_by_year(albums):
-    years = []
-    for a in albums:
-        m = re.match('.+y(\d\d\d\d)y$', a)
-        if m:
-            years.append(int(m.group(1)))
-        else:
-            years.append(0)
-    years = np.array(years)
-    albums = np.array(albums)
-    albums = list(albums[np.argsort(years)])
-    return albums
 
 def main():
     # Analyze lyrics of all available artists (English)
