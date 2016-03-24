@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Childish Gambino (Donald Glover)
+Album:  Camp
+Song:   Backpackers
+Typed by: OHHLA Webmaster DJ Flash
+
+[Childish Gambino]
+Alright it's Childish baby, Mr. Talk About His Dick Again
+Nerdy-ass black kid; whatever man, I'm sick of him
+That well spoken token, who ain't been heard
+The only white rapper who's allowed to say the N-word
+I buy a bunch of 'em and put it on my black card
+Now I got some street cred, use it 'til it's maxed out
+I got a girl on my arm dude, show respect
+Somethin crazy, an Asian, Virginia Tech
+She too fine, I do dimes
+If not that, I'm walkin out with two fives
+Change my ID for the cops, it's not enough yet
+Black male in short-shorts, I'm double suspect
+Ballin since '83, half of 'em say he gay
+Maybe that's the reason I like Lady What-Baby-Say
+I'm a problem, I'm lame as fuck homey
+But I rap like these niggaz ain't got shit on me
+Fuck the cool kids, not Chuck English
+But people who think that hatin on me makes them distinguished
+Like, "What is this nigga doin? rap is for real blacks
+I hate that fuckin faggot man he think that we feel that"
+Or "I wrote on rap culture my junior year at Brown
+So I'm allowed to say what all his raps are about"
+You better shut your mouth, before I fuck it
+You really hate my lyrics now, or Kid Cudi's? Nigga
+
+[Chorus]
+Runnin this thang, money insane
+Busy gettin brain like Krang
+What, what's my name in the woods got these niggaz usin MapQuest
+Man, fuck a backpacker
+
+[Childish Gambino]
+Niggaz with OCD, nWO
+All white like my clothes, CW shows
+Nigga got signed, it's an anomaly
+No co-sign, trigonometry
+Man these niggaz hate me
+"Man, fuck you nigga... fuck you nigga!"
+They real black like won't show up on your camera phone
+They real black like turn the flash on your camera on
+They real black take shit, turn it into gold
+I'm real black I survive when the pressure on
+Upper echelon, bit my lip when I'm kissin her
+Clash of the titans, baby your tits is titular
+Listenin to some Kiss FM, she wanna hear Nicki Minaj
+"Super Bass" super face inside her garage
+It's not a massage, spa rap with a happy ending
+Old niggaz wanna assassinate me
+It's a shame, these kids was supposed to save rap
+Fuck that~! Boat shoes and a wave cap
+He don't give back, how the fuck a nigga say that?
+Summer in November I gave everyone a Maybach
+Comin on that payback, comin on that Ma$e took
+I'm comin' on some real shit, I'm comin on her Facebook
+Fuck a backpacker with a rhino's dick
+I do me like a gyno chick, uhh
+
+[Chorus]
+
+[Outro]
+Fuck these backpackers!! {*3X*}
+HUH?!!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

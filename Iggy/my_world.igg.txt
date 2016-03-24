@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Iggy Azalea
+Album:  Ignorant Art
+Song:   My World
+Typed by: AZ Lyrics
+
+My world, rhyme vicious
+White girl, team full of bad bitches
+DRUGS Gang, I'm in the zone
+Aussie ho, I put my Country on
+G shit, I'm what you ain't
+6'4 dip with candy paint
+I get done, what you can't
+White bitch down slugs, and gangstas faint
+I shut it down, go and hate
+I had enough of these hoes
+No time to waste
+Amazing grace, embrace the place
+You basic bitch, get out my face
+I'm on the phone closing deals
+George tell em next, half a mill
+On the phone closing deals
+George tell em next, half a mill
+
+Cotton candy, laced in gold
+Stack that money, sushi roll
+Bottles up, feeling throw'd
+V.I.P it, overload
+[x2]
+
+My world, rhyme vicious
+White girl, team full of bad bitches
+[x4]
+
+Ugh, hands in the air
+This is for the bitches getting money up in here
+
+My world, rhyme vicious
+White girl, team full of bad bitches
+[x2]
+
+Ugh
+Enough of that
+Now I'm finna kill this shit
+Chordz 3D with another hit
+Call me the pound
+I'ma kill this bitch
+
+Pound for pound around town
+I'm the illest bitch
+You see me, be the realest bitch
+You high off mines
+You snorting shit
+
+Higher than a motherfucker
+Better never been on other rhyme
+In the gutter got them saying she the other color
+Me and your man, secret agents, we under covers
+My team on the scene, stay clean on these other brothers
+Talk shit get his nut fucking nutter butter
+Iggy Pop, I'm gone bitch, burn rubber
+Bottles over here, more till I die
+Sparkle every bottle, see the glare in my eye
+Turned over here, it's the 4th of July
+White, Black, Asian, Latin Hoes, Middle Eastern
+It's time to show, we run this shit, gotta let them know
+
+Cotton candy, laced in gold
+Stack that money, sushi roll
+Bottles up, feeling throw'd
+V.I.P it, overload
+[x2]
+
+My world, rhyme vicious
+White girl, team full of bad bitches
+[x4]
+
+Ugh, hands in the air
+This is for the bitches getting money up in here
+
+My world, rhyme vicious
+White girl, team full of bad bitches
+[x2]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

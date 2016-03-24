@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Childish Gambino (Donald Glover)
+Album:  Camp
+Song:   Fire Fly
+Typed by: OHHLA Webmaster DJ Flash
+
+[Chorus]
+Now when they see us on the streets
+all they wanna do is take pics
+And I'm like, okay (yeah, okay)
+And when they hear us on the beat
+all they wanna do is make hits
+And I'm like, okay (yeah, okay)
+And if you're feelin like I'm feelin how the world should be: perfectly
+Fire like I'm third degree
+And suddenly, shorty we got so high - firefly
+
+[Childish Gambino]
+Skateboardin down at Washington Square
+Lookin for quarters maybe afford a falafel for dinner, ugh
+I'm so broke man, scholarship apology
+Facebook messages from college kids who hollerin
+Girls like, "We love you, we go to LSU
+You gotta do a show so we can come and molest you"
+This rap stuff is magic
+I used to get called "Oreo" and "Faggot"
+I used to get more laughs than I got laughed at
+Oh you got a mixtape? That's fantastic
+But everybody thought it was jokes though; they half right, the joke is
+I got flow so don't act like
+You ain't sittin there with your friends like, it can't be
+I know Donald Glover, he weak man, he campy
+I'm still knocked down, but I up the ante
+Me and hip-hop, that black Sid and Nancy
+
+[Chorus]
+
+[Childish Gambino]
+It's hard to make Hov' the footsteps you followin
+Especially when your niggaz look like Carlton
+The pretty girls usin skin so soft
+Only be likin black dudes with their hats broke off
+Nigga you act too soft; fuck you! I'm from the projects
+My mom was just workin to give me options
+No live shows, cause I can't find sponsors
+for the only black kid at a Sufjan concert
+Yeah so, what'cha gonna do man? You won't speak to the hood, man
+If I was given one chance I think I could, man
+These black kids want somethin new, I swear it
+Somethin they wanna say but couldn't cause they embarrassed
+All I do is make the stuff I woulda liked
+Reference things I wanna watch, reference girls I wanna bite
+Now I'm firefly like a burnin kite
+And youse a fake fuck like a fleshlight
+Even dudes who like me straight lookin at me crazy
+Like, "How the hell you drop a EP and meet Jay-Z?"
+Girls used to tell me I ain't cool enough
+Now text me pics sayin' "You could tear this up"
+I don't really like shades, big rims, or jewelry
+But gettin time of day from a model is new to me
+Bein me isn't as hard as it used to be
+Now everyone sing the chorus man, you do it so beautifully
+
+[Chorus] - repeat 2X minus "firefly" the second time</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

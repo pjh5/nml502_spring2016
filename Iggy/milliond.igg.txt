@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Iggy Azalea f/ B.o.B, T.I.
+Album:  Glory
+Song:   Million Dollar Misfits
+Typed by: AZ Lyrics
+
+[B.o.B]
+Yeah we finally on, tell the world we on
+Yeah we finally on, tell the world we on
+Tell the world we on, tell the world we on
+
+That's that's that I live for [x3]
+Who we sent get real
+Tell the world we on
+
+[Iggy Azalea]
+Life like blissing, eh TIP done made an investment
+It's hustle game till I'm resting
+Plus rounding round and I'm flexin
+Hundred racks for a show, run it
+Broke, I blow hundreds
+See you talking 'bout not money
+What you talking 'bout? Nothing Nothing
+GDOD, get doe or die we do
+Powder blue Guiseppes and [?] and Maserati coupes
+To all my bitches that's pretty and got a body too
+Tell 'em throw that dough in the air
+And go catch
+
+[Chorus: T.I.]
+I said we kitsch bitch million dollar misfits
+Million dollar misfits, million dollar misfits
+We kitsch bitch, million dollar misfits
+Million dollar misfits, million dollar misfits
+Finally on (That's just's what I live for)
+The world we on
+Yeah we finally on (That's just's that I live for)
+(That's that's that I live for )
+The world we on (That's just's that I live for
+Who we sent get real)
+
+[B.o.B]
+I said, I said, I said I hop in the coupe
+Then I throw up the deuce
+I take my city every where I go
+In that A hat salute
+You see is hustle gang bang bang bang
+We too hard to can bang
+Ain't no candidates ridin' over beat, that murder business campaign
+See I roll up the ciggy, burning donuts with Iggy
+Anywhere we land on the globe, we the hottest in in yo city
+Your woman know when we coming she gon' pop up any minute
+She poppin nails, poppin pillies
+Might cop a Porsche, pop a wheelie
+
+[Chorus]
+
+[Iggy Azalea]
+Okay shining all I know, and balling all I do
+Get the millions when the spring and summer fall I do
+Falling through, you saw my crew
+We red carpet ready, you say you are as who
+Dead fresh like we woke up on the runway
+Damn, body bangin like gun play
+Red bottoms no high tops no sick rocks
+No Hyundai I'm dumb paid
+Couldn't get 3 stacks outta Andre
+They ask me what I want, I ask 'em what you got
+Everything private plane multi million dollar yacht
+Got that on my hand, mansion
+On my way to Cabo, riding suicidal
+Get money by the [?]
+
+[Chorus]
+Tell the world we on</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

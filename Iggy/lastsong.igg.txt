@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Iggy Azalea
+Album:  Ignorant Art
+Song:   The Last Song
+Typed by: AZ Lyrics
+
+All I hear is bitches ain't shit
+All men are liars
+You can only trust yourself
+I know that weed is fire!
+It can't last forever
+True love died in '96
+There is nothing left now
+Replace hearts with business
+Damn well..
+What I'm meaning to seems I
+Think I met someone
+But he ain't really my type shiiit
+He only 21
+His fingers do the talking
+Where he's from, will be his coffin
+Every time this homeboy drive me 'round think I might die on slauson
+But
+I still wanna keep him, cook him breakfast in the mornings
+We haven't even kissed yet
+But that just make me want him more
+Plus he love his mama yep
+He a family man
+And even though the ratchets love him
+I still think he a gentleman
+Oh oh oh
+Life's a trip and baby you the plane
+And I'm just trynna get a seat next to you to stay
+Put his fear in his nose
+Why he do that? I don't know
+I lost a couple friends to that
+So I hope he is in control
+Every time he swear he gonna stop
+But I know that he won't wish
+I could be the only angel he need to be strong
+This, could be dangerous
+Man I got a lot at stake
+I ain't even graduate
+So I don't have room for mistakes
+No oh oh oh
+Life's a trip and baby you the plane
+I'm just trynna get a seat next to you to stay
+Yes I am, yes I would
+When? For good? For you? For ever!
+All my friends think that I'm crazy
+They tell me I could do better
+Fuck all that, boo
+It's you that I'm trying to get to heaven with
+They say that you're a hindrance
+But I think that you genuinence
+
+They say he's no item. Please don't like him
+He don't wife 'em, he one nights 'em!'
+But I don't give a fuck if my friends don't like him
+I don't give a f..
+
+They say he's no item. Please don't like him
+He don't wife 'em, he one nights 'em!'
+But I don't give a fuck if my friends don't like him
+I don't give a fuck if my friends don't like him!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

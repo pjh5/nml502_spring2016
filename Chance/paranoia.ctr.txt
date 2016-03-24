@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Chance The Rapper
+Album:  Acid Rap
+Song:   Paranoia *
+Typed by: Cedmaster3K
+
+* song starts after "Pusha Man" at the 2:19 mark
+
+{*instrumental starts after 30 seconds of silence*}
+
+[Chorus 2X: Chance The Rapper]
+I've been ridin' around with my blunt on my lips
+with the sun in my eyes and my gun on my hip
+Paranoia on my mind, got my mind on the fritz
+But a lot of niggas dyin', so my 9 with the shits
+
+[Chance The Rapper]
+Move to the neighborhood; I bet they don't stay for good, watch
+Somebody'll steal daddy's Rollie, call it the neighborhood watch
+Pray for a safer hood when my paper good, watch
+Captain Save-a-Hood, hood savior, baby boy
+Still getting ID'd for Swishers (mama still wash my clothes)
+Still with Save Money militia (I'mma still watch my bros)
+Trapped in the middle of the map with a little-bitty rock and a little bit of rap
+That with a literary knack and a little shitty Mac and like literally jack
+
+[Chorus]
+
+[Chance The Rapper]
+They murkin' kids; they murder kids here
+Why you think they don't talk about it? They deserted us here
+Where the fuck is Matt Lauer at? Somebody get Katie Couric in here
+Probably scared of all the refugees; look like we had a fuckin' hurricane here
+They'll be shootin' whether it's dark or not, I mean the days is pretty dark a lot
+Down here, it's easier to find a gun than it is to find a fuckin' parking spot
+No love for the opposition, specifically a cop position cause they've never been in our position
+Gettin' violations for the nation, correlatin', you dry snitchin'
+
+[Chorus]
+
+[Interlude: Chance The Rapper]
+I know, you scared, you should ask us if we scared too
+I know you scared... me too
+I know, you scared, you should ask us if we scared too
+If you, was there, then we'd just knew you cared too
+
+[Chance The Rapper]
+It just got warm out, this the shit I've been warned 'bout
+I hope that it storm in the morning, I hope that it's pourin' out
+I hate crowded beaches, I hate the sound of fireworks
+And I ponder what's worse between knowin' it's over and dyin' first
+Cause everybody dies in the summer
+Wanna say ya goodbyes, tell them while it's spring
+I heard everybody's dyin' in the summer
+So pray to God for a little more spring
+
+[Interlude] - second half</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Childish Gambino
+Album:  Because the Internet
+Song:   I. The Crawl
+Typed by: AZ Lyrics
+
+[Chorus]
+Where we were both kinda thing
+Betchya cry, all alone
+Where we were both kinda thing
+Betchya cry, all alone
+Where we were both kinda thing
+Betchya cry, all alone
+
+[Verse 1]
+Rec League, I ain't handball
+Y'all be string like a broke guitar
+And I still put it down like the family dog
+Yeah. I murder some, I murder one
+Explain it all, Ferguson
+We ain't gotta sing the same old love song
+Cut a white girl with the same black gloves on
+Yeah what you saying to it?
+Old money look no money don't do it
+Nigga coming round in they lane like a Huey
+And I'm only looking back if I'm looking at her booty
+(At her booty) So ratchet now
+They wanna smoke niggas, but they Black & Mild
+So we opted out
+Ok cool
+
+[Chorus]
+
+[Verse 2]
+Blue drink by the bouquet
+'Til I'm blue faced on a Tuesday
+(Can I have some?)
+#NiggasBeLike
+Put a plus eighteen on that e-vite
+And I said what I felt, no re-write
+Nah nah, they can't hold me
+Shrooms a lot, drop something
+I double dare you, I'm Marc Summers
+I scortch women, I'm turnt up
+Gut niggas, so curb balling
+Elle Varner got a crush on him
+I gotta wait in line for that
+Ain't nobody got time for that
+Ain't nobody gotta rhyme with that
+Too true like 2 Chainz
+Blue blood like Wolf Gang
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

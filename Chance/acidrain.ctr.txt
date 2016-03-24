@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Chance The Rapper
+Album:  Acid Rap
+Song:   Acid Rain
+Typed by: Cedmaster3K
+
+[Intro: Chance The Rapper]
+Na-na na na-na-nah
+Na-na-na-na na na na na-nah
+Na-na-na na na-na-nah
+Na-na-na-na na na na na-nah (IGH!)
+... Na-na-na-na na na na na-nah
+Na-na-na-na na-na-na-na na na na na-nah
+Na na-na-na-na nah...
+
+[Chance The Rapper]
+Kicked off my shoes, tripped acid in the rain
+Wore my jacket as a cape, and my umbrella as a cane
+The richest man rocks the snatch-less necklace
+Spineless bitches in backless dresses
+... Wore my feelings on my sleeveless
+... My weed seedless, my trees leafless
+I miss my diagonal grilled cheeses
+And back when Mike Jackson was still Jesus
+Before I believed in not believin' in
+Yeah, I inhaled, who believed in me not breathin' in?
+Cigarette stained smile all covered in sin
+My big homie died young; just turned older than him
+I seen it happen, I seen it happen, I see it always
+He still be screamin', I see his demons in empty hallways
+... I trip to make the fall shorter
+... Fall quarter was just a tall order
+And I'm hungry, I'm just not that thirsty
+As of late, all my verses seem not so verse-y
+And all my words just mean controversy
+Took the team up off my back, like "That's not your jersey?"
+Stressin', pullin' my hair out, hopin' I don't get picked
+All this medicine in me hopin' I don't get sick
+Making all of this money hopin' I don't get rich
+Cause niggas still getting bodied for foams
+
+Sometimes the truth don't rhyme
+Sometime the lies get millions of views
+Funerals for little girls, is that appealin' to you?
+From your cubicle desktop, what a beautiful view
+... I think love is beautiful, too
+Building forts from broken dams, what a hoover could do
+For future hoopers dead from Rugers shootin' through the empty alley
+Could've threw him an alley-oop, helping him do good in school
+Damn that acid burn when it clean ya
+... I still miss bein' a senior
+And performing at, all those open mic events
+High schools, eyes closed seein' arenas
+... And I still get jealous of Vic
+... And Vic's still jealous of me
+But if you touch my brother
+All that anti-violence shit goes out the window along with you and the rest of your team
+... Smokin' cigarettes to look cooler
+... I only stop by to look through ya
+... And I'm only gettin' greedier
+... And I'm still Mr. Youmedia
+... And I still can't find talent
+And I'm still choosin' classmates that wouldn't fuck
+Mom still thinks I should go back to school
+And Justin still thinks I'm good enough
+And Mama Jan still don't take her meds
+And I still be askin' God to show his face
+And I still be askin' God to show his face...
+
+[Chance The Rapper - singing]
+I am a new man, I am sanctified, ohhh
+Ohh I am holy, I have been baptized
+I have been born again, I am the White Light
+Rain, rain don't go away...
+Bow wow wow wow wow wow {*7X to fade*}
+IGH!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

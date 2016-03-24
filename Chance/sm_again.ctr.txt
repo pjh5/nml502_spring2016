@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Chance The Rapper f/ Ab-Soul
+Album:  Acid Rap
+Song:   Smoke Again
+Typed by: Cedmaster3K
+
+[Intro: Chance The Rapper]
+IGH! Hmm-mm-mmm (IGH!)
+Da-da-da-da-da-da-da, da-da-da-da-da-da - +Acid Rap+!
+
+[Chorus 2X: chopped and screwed voice]
+I don't even talk to them on the phone again, leave in the AM, on the road again
+So bitch, let's fuck so I can smoke again, I gotta smoke again, I got shit to do
+
+[Chance The Rapper]
+Who smokin in my car? It's that nigga Chano
+AKA Mr. Bennett, AK Tony Montano
+I've got some folks in low end, I got some folks in c-note
+AK hundred dinero, you ever seen Casino?
+I just got back with 'Bino, I got a bitch but she know
+Her friends done did the Dino - that's that Chicago lingo
+Flamin' hots with Cheese and a kiwi Mistic
+My dick won't even call her cause she left all that lipstick
+Niggas be on dirt, that's why I stay on petty
+I know that bangers jam, that's why my hands stay ready
+Flip the candy yum, that's the fuckin' bombest
+Lean all on the square - that's a FUCKIN' rhombus
+
+[Chorus] - 2X
+
+[Chance the Rapper]
+Who's sneakin' in the club? That's that young Sir Rapper
+Un-saran wrap the purple, wrap that blunt under after
+Smoke all out the window, cops could eat a dick
+If you ain't the hitter, you just might be the lick
+Flame on, flame on, I'm your, bitch's ringtone
+She like when I rap, raps but better when I sing, songs
+No Drake, but I get my Trey on; killin' in the hood like Trayvon
+Shoppin' like I got a coupon, savin' like I got a cape on
+Cookin' crack in my apron, dressed like a nigga had 8 proms
+Tell shorty I may change and I made it and I napalm
+Trippy shit to watch, drugs while on the clock
+Acid on the face - that's a work of art
+
+[Chorus] - 2X
+
+[Ab-Soul]
+Soulo ho, ho twerk somethin' (Soulo) throw it back like you tryna hurt somethin' (Soulo)
+I'm so def, I ain't ever heard nothin'; my name Herb, take herb, smoke herb (say word?)
+Heh, how 'bout you? No dap, but I'll take a pound or two
++No Doubt+ like Gwen Stefani's group, look let me put my mouth where you potty, boo
+(Hahaha) IGH! I can't get that, yeah
+Them niggas pissed, need potty trainin', they movement shit, that's a potty train (uh)
+She ain't left yet, but she probably came, we kicked it then I scored - soccer game (yeah)
+She was a phony goalie, I got great aim though, don't insult me
+I'll give it to ya straight, this is what she told me, my name Soulo cause I'm the one and only (Soulo)
+She only got you as a nigga on the side - that's a nigga on the side of a side bitch, homie (ay)
+Then we got out a Dodge, like them Dukes of Hazzard
+Music and tabs of Lucy, take your chance with this rapper
+Soul~!
+
+[Chorus] - 2X</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

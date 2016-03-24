@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Iggy Azalea f/ YG
+Album:  Ignorant Art
+Song:   You
+Typed by: AZ Lyrics
+
+Searchin' for a dude that can call me wifey
+Ready for the ring, just maybe I might be
+Never been a smut, I don't care who like me
+I can count on one hand all the dudes that's piped me
+Takin kinda long, time is movin on, been feelin kinda strong, love is on the phone
+Ya sayin that I'm here, if only you could hear
+My heart yellin' out, I wanted to compare
+I know what I deserve, I demand the bestest
+That's why all my past dudes names is ex's
+Keep that thing in your pants I don't need your sex's
+Better come correct when you step to a princess
+Queen on the throne, listen to this song
+If you out there, step into my zone
+Show me how you rock, gimme what you got
+Make me your one, let's hit the top
+
+[Chorus: x2]
+I need someone that's new, who knows what to do.
+I need someone like you, someone like you, someone like you, someone like you
+
+[YG]
+Hey how you doin babygirl it's nice to meet ya
+Got me wanna freak ya, just by ya features
+Hopin this conversation leads to a situation
+And that situation leads to sensation
+Left wranglers, I got em don't worry
+I'm the type of dude these chicks talk about on Maury, yup
+Cold story but I got alot of ex girls
+So why I wanna put a alphabet above my next girl
+Thug nigga, thug nigga, thug nigga
+If I wasn't a rapper then I'd probably be a drug dealer
+Yep and she loves me for that
+Put on her favourite slow song and she fuck me to that
+
+[Chorus: x2]
+I need someone that's new, who knows what to do.
+I need someone like you, someone like you, someone like you, someone like you
+
+Better then the others
+Tell them girls to get low
+I dance for my baby in the room I dip low
+Givin him my body, yeah I act so ex oh
+On my neck where he best so papi don't let go
+Are you out there? Bring it over here
+If so where, hands in the air
+Let's start a new life, take on the world
+Grab my hand, make me your girl
+
+[Chorus: x2]
+I need someone that's new, who knows what to do.
+I need someone like you, someone like you, someone like you, someone like you</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>
