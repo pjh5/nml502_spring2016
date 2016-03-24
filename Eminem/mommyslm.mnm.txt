@@ -1,12 +1,3 @@
-
-** This track and the following track on the EP were remade into one track ** 
-** for the Slim Shady LP entitled '97 Bonnie & Clyde **
-
-{* Grasshoppers chirping *}
-{* Sound of something heavy being dragged through a forest *}
-{* Dragging continues until a road is reached with cars passing *}
-{* Car door opens *}
-{* Heavy item is thrown inside *}
-{* Car door slams shut *}
+** for the Slim Shady LP entitled '97 Bonnie & Clyde **{* Sound of something heavy being dragged through a forest *}{* Car door opens *}{* Car door slams shut *}
 
 {* Track segues into following track - Just the Two of Us *}

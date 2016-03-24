@@ -1,6 +1,4 @@
 
-{*Slim Shady is portrayed as a demon with a very low pitched voice*}
-
 [Slim Shady] Eminem
 [Eminem]     No
 [Slim Shady] Eminem
