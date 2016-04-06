@@ -1,5 +1,5 @@
 function rapLearning()
-
+    fullfeatures = csvread('fullfeatures.csv');
 
 end
 
