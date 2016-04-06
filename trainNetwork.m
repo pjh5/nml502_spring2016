@@ -1,5 +1,4 @@
 function [W_l1, W_l2, trainerr, testerr] = trainNetwork(in,hid,out,nepoch,tol,eta,mom,X,D,xtest,ytest, scaleparams)
-    calculate_misclassification([1 0 0; 0 1 0; 0 0 1],[1 0 0; 0 1 0; 0 1 0])
      %initialize weights; first column is bias
     W_l1 = (rand(hid,in + 1)-0.5)/5;
     W_l2 = (rand(out,hid+1)-0.5)/5;

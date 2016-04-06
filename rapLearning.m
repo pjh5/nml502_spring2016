@@ -1,16 +1,26 @@
 function rapLearning()
 
 
-
-
 end
 
 function [xtest,yrecall,err] = recall(W1,W2,xtest,ytest, K, scaleparams)
     fNET1 = tanh(W1*[ones(1,K);xtest]);
     fNET2 = tanh(W2*[ones(1,K);fNET1]);
     yrecall = unscale(fNET2, scaleparams);
-%     yrecall = (fNET2+0.92)*6;%marked - in a general case should i call reshift here?
-    err = mean(mean(abs(unscale(ytest, scaleparams) - yrecall)));
+    err = calculateMisclassification(ytest, yrecall);
+end
+
+function val = calculate_misclassification(ytest, yrecall)
+    M = size(ytest, 1);
+    ytest_c = my_classify(ytest);
+    yrecall_c = my_classify(yrecall);
+    
+    val = 1 - (sum(ytest_c == yrecall_c) / M);
+    
+end
+
+function [ class ] = my_classify(vec)
+    [~, class] = max(vec,[],2);
 end
 
 function [val] = scale(in_val,scaleparams)
