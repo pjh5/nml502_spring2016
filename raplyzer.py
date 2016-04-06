@@ -34,7 +34,7 @@ def read_lyrics(lyrics_dir='lyrics',
 	with open('raplyzer_out.csv', 'wb') as csvfile:
 		csvwriter = csv.writer(csvfile, delimiter=',', lineterminator='\n',
 								quotechar='|', quoting=csv.QUOTE_MINIMAL)
-		csvwriter.writerow(["Artist", "Song", "Longest Rhyme Length", "Average Rhyme", "Word Count", "Unique Word Count", "Percent Unique"])
+		csvwriter.writerow(["Artist", "Song", "Longest Rhyme Length", "Average Rhyme"])
 
 	for a in os.listdir(lyrics_dir):
 		print "Analyzing artist: %s" % a
@@ -59,20 +59,20 @@ def read_lyrics(lyrics_dir='lyrics',
 			# Song file succesfully read
 			# Calculate all the statistics we want
 			else:
-				text = l.text_orig.lower()
-				rx = re.compile(u'[^\wåäö]+')
-				text = rx.sub(' ', text)
-				all_words = text.split()
-
-				n_uwords = len(set(all_words))
-				n_words = len(all_words)
-				per_uwords = n_uwords / float(n_words)
+				# Calculate word statistics
+				# text = l.text_orig.lower()
+				# rx = re.compile(u'[^\wåäö]+')
+				# text = rx.sub(' ', text)
+				# all_words = text.split()
+				# n_uwords = len(set(all_words))
+				# n_words = len(all_words)
+				# per_uwords = n_uwords / float(n_words)
 
 				# Add the statistics to the csv file
 				with open('raplyzer_out.csv', 'a') as csvfile:
 					csvwriter = csv.writer(csvfile, delimiter=',',
 											quotechar='|', quoting=csv.QUOTE_MINIMAL)
-					csvwriter.writerow([a, song, long_r[0], avg_r, n_words, n_uwords, per_uwords])
+					csvwriter.writerow([a, song, long_r[0], avg_r])
 		
 
 def main():
