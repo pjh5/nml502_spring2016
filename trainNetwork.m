@@ -1,5 +1,5 @@
 function [W_l1, W_l2, trainerr, testerr] = trainNetwork(in,hid,out,nepoch,tol,eta,mom,X,D,xtest,ytest, scaleparams)
-
+    calculate_misclassification([1 0 0; 0 1 0; 0 0 1],[1 0 0; 0 1 0; 0 1 0])
      %initialize weights; first column is bias
     W_l1 = (rand(hid,in + 1)-0.5)/5;
     W_l2 = (rand(out,hid+1)-0.5)/5;
@@ -37,7 +37,10 @@ function [W_l1, W_l2, trainerr, testerr] = trainNetwork(in,hid,out,nepoch,tol,et
         [~,~,testerr(epoch)] = recall(W_l1,W_l2, xtestk, ytestk,K, scaleparams);
 %         disp(trainerr(epoch));
 %         disp(testerr(epoch));
-        
+        if (mod(epoch, monitor) == 0)
+            [yrecall,~] = 
+        end
+
         if testerr(epoch) <= tol
             break;
         end
@@ -45,10 +48,22 @@ function [W_l1, W_l2, trainerr, testerr] = trainNetwork(in,hid,out,nepoch,tol,et
 
 end
 
-function [xtest,yrecall,err] = recall(W1,W2,xtest,ytest, K, scaleparams)
+function [yrecall,err] = recall(W1,W2,xtest,ytest, K, scaleparams)
     fNET1 = tanh(W1*[ones(1,K);xtest]);
     fNET2 = tanh(W2*[ones(1,K);fNET1]);
     yrecall = unscale(fNET2, scaleparams);
-%     yrecall = (fNET2+0.92)*6;%marked - in a general case should i call reshift here?
-    err = mean(mean(abs(unscale(ytest, scaleparams) - yrecall)));
+    err = calculateMisclassification(ytest, yrecall);
+end
+
+function val = calculate_misclassification(ytest, yrecall)
+    M = size(ytest, 1);
+    ytest_c = my_classify(ytest);
+    yrecall_c = my_classify(yrecall);
+    
+    val = 1 - (sum(ytest_c == yrecall_c) / M);
+    
+end
+
+function [ class ] = my_classify(vec)
+    [~, class] = max(vec,[],2);
 end
