@@ -1,6 +1,22 @@
 function rapLearning()
     fullfeatures = csvread('fullfeatures.csv');
-
+    
+    M = size(fullfeatures,1);
+    numClasses = 10;
+    desired = zeros(M,numClasses);
+    for song = 1:M
+       for i = 1:numClasses
+           if (i == fullfeatures(song,1))
+              desired(song,1) = i;
+           end
+       end
+    end
+    
+    %create and scale X matrix here.
+    
+    
+    %what is our scaling feature
+    
 end
 
 function [xtest,yrecall,err] = recall(W1,W2,xtest,ytest, K, scaleparams)
