@@ -29,11 +29,12 @@ def read_lyrics(lyrics_dir='lyrics',
 		lookback    How many previous words are checked for rhymes. For
 					Finnish I've used 10 and for English 15.
 	'''
-	
+
+	# Set up CSV file to add the stats of each song to
 	with open('raplyzer_out.csv', 'wb') as csvfile:
-		csvwriter = csv.writer(csvfile, delimiter=',',
+		csvwriter = csv.writer(csvfile, delimiter=',', lineterminator='\n',
 								quotechar='|', quoting=csv.QUOTE_MINIMAL)
-		csvwriter.writerow(["Artist", "Song", "Longest Rhyme Length", "Average Rhyme", "Word Count", "Unique Word Count", "Percent Unique"])
+		csvwriter.writerow(["Artist", "Song", "Longest Rhyme Length", "Average Rhyme"])
 
 	for a in os.listdir(lyrics_dir):
 		print "Analyzing artist: %s" % a
@@ -47,26 +48,31 @@ def read_lyrics(lyrics_dir='lyrics',
 				long_r = l.get_longest_rhyme()
 				avg_r = l.get_avg_rhyme_length()
 				print "\n%s -- %s" % (a, song)
+
+			# Exception reading the file, scrap it and move on
 			except:
 				print 'Exception reading file ', file_name
 				print '\tException: %s' % sys.exc_info()[0]
 				long_r = (-1, "")
 				avg_r = -1
+
+			# Song file succesfully read
+			# Calculate all the statistics we want
 			else:
-				text = l.text_orig.lower()
-				rx = re.compile(u'[^\wåäö]+')
-				text = rx.sub(' ', text)
-				all_words = text.split()
-				#print all_words
-				#print set(all_words)
-				# Print song statistics
-				n_uwords = len(set(all_words))
-				n_words = len(all_words)
-				per_uwords = n_uwords / float(n_words)
+				# Calculate word statistics
+				# text = l.text_orig.lower()
+				# rx = re.compile(u'[^\wåäö]+')
+				# text = rx.sub(' ', text)
+				# all_words = text.split()
+				# n_uwords = len(set(all_words))
+				# n_words = len(all_words)
+				# per_uwords = n_uwords / float(n_words)
+
+				# Add the statistics to the csv file
 				with open('raplyzer_out.csv', 'a') as csvfile:
 					csvwriter = csv.writer(csvfile, delimiter=',',
 											quotechar='|', quoting=csv.QUOTE_MINIMAL)
-					csvwriter.writerow([a, song, long_r[0], avg_r, n_words, n_uwords, per_uwords])
+					csvwriter.writerow([a, song, long_r[0], avg_r])
 		
 
 def main():
