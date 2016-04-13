@@ -1,7 +1,7 @@
 function rapLearning
 features = csvread('fullestfeatures.csv',1);
 clc
-M = size(features,1);
+[M, d] = size(features);
 numClasses = 10;
 desired = zeros(M,numClasses);
 for song = 1:M
@@ -15,22 +15,26 @@ for i=1:size(inputs,2)
    scaleparams(2,i)=max(inputs(:,i));
    inputs(:,i)=scaled(inputs(:,i),[scaleparams(1,i),scaleparams(2,i),-.9,.9]);
 end
-X=inputs;
-D=desired;
-alpha=.5;
+
+% Split into training and testing 
+allData = [inputs desired](randperm(M), :);
+X_train = allData(1:ceil(M*.7), 1:d);
+X_test = Xall((ceil(M*.7) + 1):end, 1:d);
+D_train = allData(1:ceil(M*.7), (d + 1):end);
+D_test = allData((ceil(M*.7) + 1):end, (d + 1):end)
+
+alpha=.001;
 nepoch=5000;
 a=0;
 errstop=.01;
-[Wx,Wy,trainerr]=trainMLP(57,20,10,alpha,X,D,nepoch,a,errstop,scaleparams);
+[Wx,Wy,trainerr,tester]=trainMLP(57,20,10,alpha,X_train,D_train,X_test,D_test,nepoch,a,errstop,scaleparams);
 plot(trainerr)
     %what is our scaling feature
     
 end
-function [xtest,yrecall,err] = recall(W1,W2,xtest,ytest, K, scaleparams)
+function [fNET2] = recall(W1,W2,xtest, K)
     fNET1 = tanh(W1*[ones(1,K);xtest]);
     fNET2 = tanh(W2*[ones(1,K);fNET1]);
-    yrecall = unscale(fNET2, scaleparams);
-    err = calculateMisclassification(ytest, yrecall);
 end
 function val = calculate_misclassification(ytest, yrecall)
     M = size(ytest, 1);
@@ -58,7 +62,7 @@ function [val] = unscale(in_val,scaleparams)
     fmax = scaleparams(4);
     val = ((in_val - fmin)/(fmax - fmin)) * (ymax - ymin) + ymin;
 end
-function [Wx,Wy,trainerr,testerr]=trainMLP(p,H,m,alpha,X,D,nepoch,a,errstop,scaleparams)
+function [Wx,Wy,trainerr,testerr]=trainMLP(p,H,m,alpha,X,D, X_test, D_test, nepoch,a,errstop,scaleparams)
 %   p: number of the inputs.
 %   H: number of hidden neurons
 %   m: number of output neurons
@@ -112,6 +116,10 @@ for epoch = 1:nepoch
     [~,b]=max(yk);
     c=confusionmat(f',b);
     trainerr(epoch)=1-sum(diag(c))/length(f);
+	
+	[~,ftest] = max(D_test);
+	[~,btest] = max(recall(W1, W2, X_test, size(X_test,1)));
+    testerr(epoch) = 1 - sum(diag(confusionmat(ftest', btest)) / length(ftest));
     %[~,tt] = recall(Wx,Wy,Xtest,Dtest,f2);    
     %testerr(epoch)=mean(tt);
     
