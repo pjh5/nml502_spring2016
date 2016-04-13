@@ -1,6 +1,7 @@
 function rapLearning
 features = csvread('fullestfeatures.csv',1);
 clc
+close all
 [M, d] = size(features);
 numClasses = 10;
 desired = zeros(M,numClasses);
@@ -9,40 +10,42 @@ for song = 1:M
 end
 desired=2*desired-1;
 inputs=features(:,2:end);
+[~,d] = size(inputs);
 scaleparams=zeros(2,size(inputs,2));
 for i=1:size(inputs,2)
    scaleparams(1,i)=min(inputs(:,i));
    scaleparams(2,i)=max(inputs(:,i));
    inputs(:,i)=scaled(inputs(:,i),[scaleparams(1,i),scaleparams(2,i),-.9,.9]);
 end
-<<<<<<< HEAD
 
 % Split into training and testing 
-allData = [inputs desired](randperm(M), :);
-X_train = allData(1:ceil(M*.7), 1:d);
-X_test = Xall((ceil(M*.7) + 1):end, 1:d);
-D_train = allData(1:ceil(M*.7), (d + 1):end);
-D_test = allData((ceil(M*.7) + 1):end, (d + 1):end)
 
-=======
-X=inputs;
-D=desired;
->>>>>>> 693eb7038ffd42179bb1c4b037cac12c7994ff78
+allData = [inputs desired];
+randData = allData(randperm(M), :);
+perc=.7;
+X_train = randData(1:ceil(M*perc), 1:d);
+X_test = randData((ceil(M*perc) + 1):end, 1:d);
+D_train = randData(1:ceil(M*perc), (d + 1):end);
+D_test = randData((ceil(M*perc) + 1):end, (d + 1):end);
 alpha=.001;
-nepoch=5000;
+nepoch=2500;
 a=0;
 errstop=.01;
 
-[Wx,Wy,trainerr,tester]=trainMLP(57,20,10,alpha,X_train,D_train,X_test,D_test,nepoch,a,errstop,scaleparams);
+
+[Wx,Wy,trainerr,testerr]=trainMLP(d,20,10,alpha,X_train,D_train,X_test,D_test,nepoch,a,errstop,scaleparams);
 plot(trainerr)
-figure, plot(trainerr)
+hold on
+plot(testerr,'r')
 title('Learning history');
 xlabel('Learn step (xEpochSize');
 ylabel('Misclassification Rate');
+legend('training error','testing error')
     
+
 end
 function [fNET2] = recall(W1,W2,xtest, K)
-    fNET1 = tanh(W1*[ones(1,K);xtest]);
+    fNET1 = tanh(W1*[ones(1,K);xtest']);
     fNET2 = tanh(W2*[ones(1,K);fNET1]);
 end
 function val = calculate_misclassification(ytest, yrecall)
@@ -126,31 +129,21 @@ for epoch = 1:nepoch
     c=confusionmat(f',b);
     trainerr(epoch)=1-sum(diag(c))/length(f);
 	
-	[~,ftest] = max(D_test);
-	[~,btest] = max(recall(W1, W2, X_test, size(X_test,1)));
-    testerr(epoch) = 1 - sum(diag(confusionmat(ftest', btest)) / length(ftest));
+	[~,ftest] = max(D_test');
+	[~,btest] = max(recall(Wx, Wy, X_test, size(X_test,1)));
+    testerr(epoch) = 1 - sum(diag(confusionmat(ftest, btest')) / length(ftest));
     %[~,tt] = recall(Wx,Wy,Xtest,Dtest,f2);    
     %testerr(epoch)=mean(tt);
     
-    if trainerr(epoch)<errstop
-        disp([num2str(epoch*K),' training error:  ',num2str(trainerr(epoch)),' test error:  ',num2str(testerr(epoch))])
-            %this generates data for a confusion matrix for both the
-            %training and testing data sets and shows the misclassification
-        [~,f]=max(Dk);
-        [~,b]=max(yk);
-        confusionmat(f',b)
-%         [~,c]=max(Dtest,[],2);
-%         [~,d]=max(f2(y'),[],2);
-%         plot(c,'ks')
-%         hold on
-%         plot(d,'rx')
-%         title('Hit or Miss plot- Iris Testing Data')
-%         xlabel('index')
-%         ylabel('class')
-%         legend('Expected','Predicted')
-%         figure
-        return
-    end
+%     if trainerr(epoch)<errstop
+%         disp([num2str(epoch*K),' training error:  ',num2str(trainerr(epoch)),' test error:  ',num2str(testerr(epoch))])
+%             %this generates data for a confusion matrix for both the
+%             %training and testing data sets and shows the misclassification
+%         [~,f]=max(Dk);
+%         [~,b]=max(yk);
+%         confusionmat(f',b)
+%         return
+%     end
 end
 
 %this does the same stuff as above if the error threshold is not reached
@@ -158,14 +151,8 @@ disp(['training error:  ',num2str(trainerr(epoch))])
 [~,a]=max(Dk);
 [~,b]=max(yk);
 confusionmat(a',b)
-%         [~,c]=max(Dtest,[],2);
-%         [~,d]=max(f2(y'),[],2);
-%         plot(c,'ks')
-%         hold on
-%         plot(d,'rx')
-%         title('Hit or Miss plot- Iris Testing Data')
-%         xlabel('index')
-%         ylabel('class')
-%         legend('Expected','Predicted')
-%         figure
+disp(['testing error:  ',num2str(testerr(epoch))])
+[~,ftest] = max(D_test');
+[~,btest] = max(recall(Wx, Wy, X_test, size(X_test,1)));
+confusionmat(ftest, btest')
 end
