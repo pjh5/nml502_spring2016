@@ -15,6 +15,7 @@ for i=1:size(inputs,2)
    scaleparams(2,i)=max(inputs(:,i));
    inputs(:,i)=scaled(inputs(:,i),[scaleparams(1,i),scaleparams(2,i),-.9,.9]);
 end
+<<<<<<< HEAD
 
 % Split into training and testing 
 allData = [inputs desired](randperm(M), :);
@@ -23,13 +24,21 @@ X_test = Xall((ceil(M*.7) + 1):end, 1:d);
 D_train = allData(1:ceil(M*.7), (d + 1):end);
 D_test = allData((ceil(M*.7) + 1):end, (d + 1):end)
 
+=======
+X=inputs;
+D=desired;
+>>>>>>> 693eb7038ffd42179bb1c4b037cac12c7994ff78
 alpha=.001;
 nepoch=5000;
 a=0;
 errstop=.01;
+
 [Wx,Wy,trainerr,tester]=trainMLP(57,20,10,alpha,X_train,D_train,X_test,D_test,nepoch,a,errstop,scaleparams);
 plot(trainerr)
-    %what is our scaling feature
+figure, plot(trainerr)
+title('Learning history');
+xlabel('Learn step (xEpochSize');
+ylabel('Misclassification Rate');
     
 end
 function [fNET2] = recall(W1,W2,xtest, K)
