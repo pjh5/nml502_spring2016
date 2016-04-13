@@ -1,0 +1,20 @@
+NML 502 Project Documentation
+Jesse Hellemn, Jonathan Capo, James Peacock, Sam Vallagomesa
+----------------------------------------
+Project Phase 1 – Initial development of MLP and full feature vectors 
+2 Layer MLP
+Misclassification error 
+Features 
+1.	Longest Rhyme Length
+2.	Average Rhyme Length
+3.	Total Word Count
+4.	Percent Unique Words 
+5.	Number of Lines in a Song
+6.	Average # of Characters in a Line
+7.	Average # of Words in a Line
+8.	Frequency of top 50 words (Features 8-57)
+The rhyme lengths were generated utilizing Raplyzer, the other feature vectors were created by reading in the files to MATLAB and utilizing lyricfeatures.m to generate the frequency of the top 50 words collected from all the songs for each song. 
+------------------------------------------
+Project Phase 2 – Testing and training MLP, adjusting parameters for best performance 
+First testing and training classification run resulted in all inputs being classified as class 1. 
+The 
