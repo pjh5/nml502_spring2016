@@ -17,13 +17,15 @@ for i=1:size(inputs,2)
 end
 X=inputs;
 D=desired;
-alpha=.5;
+alpha=.001;
 nepoch=5000;
 a=0;
 errstop=.01;
 [Wx,Wy,trainerr]=trainMLP(57,20,10,alpha,X,D,nepoch,a,errstop,scaleparams);
-plot(trainerr)
-    %what is our scaling feature
+figure, plot(trainerr)
+title('Learning history');
+xlabel('Learn step (xEpochSize');
+ylabel('Misclassification Rate');
     
 end
 function [xtest,yrecall,err] = recall(W1,W2,xtest,ytest, K, scaleparams)
