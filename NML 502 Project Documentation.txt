@@ -17,4 +17,4 @@ The rhyme lengths were generated utilizing Raplyzer, the other feature vectors w
 ------------------------------------------
 Project Phase 2 – Testing and training MLP, adjusting parameters for best performance 
 First testing and training classification run resulted in all inputs being classified as class 1. 
-The 
+The training error minimizes relatively quickly with 8 hidden layer neurons
