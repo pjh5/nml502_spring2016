@@ -1,30 +1,31 @@
 function lyricfeatures
 clc
-Artists={'Chance','childish','Drake','Eminem','G-Eazy','Iggy','Jay Z','Kanye','Kendrick','Tyler'};
+Artists={'Chance','childish','Drake','Eminem','G_Eazy','Iggy','Jay_Z','Kanye','Kendrick','Tyler'};
 Songs={};
-Songs{1}={'acidrain.ctr','chainsmo.ctr','cocoabut.ctr','ev_good.ctr','everybdy.ctr','fav_song.ctr','good_ass.ctr','interlde.ctr','juice.ctr','lost.ctr','nana.ctr','paranoia.ctr','pushaman.ctr','sm_again.ctr'};
-Songs{2}={'allshine.gam','backpack.gam','bonfire.gam','crawl.gam','fire_fly.gam','heartbt.gam','hold_you.gam','kids.gam','LES.gam','let_home.gam','no_exit.gam','outside.gam','sober.gam','sunrise.gam','sweatpnt.gam','telegrap.gam','thtpower.gam','youseeme.gam'};
-Songs{3}={'0 to 100.drk','All Me.drk','Best I Ever Had.drk','Energy.drk','Headlines.drk','Hotline Bling.drk','HYFR.drk','Take Care.drk','The Motto.drk','Tuesday.drk'};
-Songs{4}={'a_fuck.mnm','bitchshd.mnm','guilty.mnm','if_i_had.mnm','iller.mnm','im_shady.mnm','low_down.mnm','murder.mnm','my_fault.mnm','mynameis.mnm','PSA_shdy.mnm','still.mnm','twoofus.mnm'};
-Songs{5}={'allcould.ezy','almost.ezy','hang_ten.ezy','ladykill.ezy','mad.ezy','make-up.ezy','marilyn.ezy','memyself.ezy','random.ezy','run_sue.ezy','wllknown.ezy'};
-Songs{6}={'backseat.igg','dropthat.igg','flash.igg','hello.igg','lastsong.igg','memyself.igg','milliond.igg','murdabiz.igg','my_world.igg','pussy.igg','runway.igg','treasure.igg','you.igg'};
-Songs{7}={'BBC.jyz','beach_is.jyz','crown.jyz','eff_with.jyz','FUTW.jyz','heaven.jyz','hlygrail.jyz','jayzblue.jyz','la_fam.jyz','nickels.jyz','oceans.jyz','part_2.jyz','picasso.jyz','somewher.jyz','tom_ford.jyz','versus.jyz'};
-Songs{8}={'allofthe.wst','feedback.wst','gold_dig.wst','gorgeous.wst','heartlss.wst','nochurch.jay','nomoreLA.wst','power.wst','rfriends.wst','runaway.wst','ultra.wst'};
-Songs{9}={'alright.ken','backseat.ken','bitchdnt.ken','blackerb.ken','complex.ken','compton.ken','good_kid.ken','hood_pol.ken','how_much.ken','i_album.ken','im_dying.ken','institut.ken','kngkunta.ken','mAAdcity.ken','momma.ken','montrees.ken','mortalmn.ken','poetic.ken','real.ken','recipe.ken','sherane.ken','sing_abt.ken','swmdrank.ken','th_walls.ken','theartof.ken','u.ken','wesleys.ken'};
-Songs{10}={'analog.tye','bitchsck.tye','bopbitch.tye','goblin.tye','golden.tye','her.tye','nightmre.tye','radicals.tye','sandwit.tye','she.tye','transylv.tye','tron_cat.tye','window.tye','yonkers.tye'};
+Songs{1}=dir('lyrics/Chance');
+Songs{2}=dir('lyrics/childish');
+Songs{3}=dir('lyrics/Drake');
+Songs{4}=dir('lyrics/Eminem');
+Songs{5}=dir('lyrics/G_Eazy');
+Songs{6}=dir('lyrics/Iggy');
+Songs{7}=dir('lyrics/Jay_Z');
+Songs{8}=dir('lyrics/Kanye');
+Songs{9}=dir('lyrics/Kendrick');
+Songs{10}=dir('lyrics/Tyler');
 count=1;
 tic
+numsongs=20+20+20+20+20+23+31+21+20+20;
 FID=fopen('top50words.csv','r');
 C=textscan(FID,'%s','delimiter','\n');
 C=sort(C{1});
 fclose(FID);
-wordfreqs=zeros(147,50);
-feature=zeros(147,5);
+wordfreqs=zeros(numsongs,50);
+feature=zeros(numsongs,5);
 for i=1:10
    disp(i)
-   for j=1:length(Songs{i})
+   for j=3:length(Songs{i})
        disp(j)
-       [feature(count,:),wordfreqs(count,:)]=findfeatures(strcat('Songs/',Artists{i},'/',Songs{i}{j},'.txt'),C);
+       [feature(count,:),wordfreqs(count,:)]=findfeatures(strcat('lyrics/',Artists{i},'/',Songs{i}(j).name),C);
        count=count+1;
    end    
 end
