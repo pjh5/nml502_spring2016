@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Drake
+Album:  If You're Reading This It's Too Late
+Song:   6 Man
+Typed by: AZ Lyrics
+
+Boomin' out in South Gwinnett like Lou Will
+6 man like Lou Will, 2 girls and they get along like I'm...
+Like I'm Lou Will, I just got the new deal
+I am in the Matrix and I just took the blue pill
+No ho shit, no fuckin' ho shit, just save that for your shit
+I don't need no fuckin' body, I run my own shit
+Like Soulja, I thought I told yah, you didn't listen
+Fieri, I'm in the kitchen, I'm a magician
+I'm on it, I'm like Macgyver, I'm Michael Meyers
+I kill careers and cut the lights off, this shit is frightenin'
+I knew it would end up like this, I'm fuckin' psychic
+Young but I'm makin' millions to work the night shift
+
+Work the night shift
+Young but I'm makin' millions to work the night shift
+Work, work the night shift
+
+Young but I'm gettin' every single motherfuckin' thing
+I'm old, you gotta know
+I'm here to fuck with niggas souls, my heart is cold
+It's prolly cause I'm from the snow, with all my woes
+I know they wanna see me go, I'm on a roll
+I mean I'm back on this again, I'm here again
+You know the truth, this not pretend, I'm not your friend
+Not your guy, I'm not your buddy, show no lovin'
+I might go DeMarcus Cousins out in public
+I mean I'm back on this again, I'm here again
+I didn't do this fuckin' tape for CNN
+I am not tryna win awards, that shit looked forced
+It's nothin' like this
+Young but I'm makin' millions to work the night shift
+
+Work the night shift
+Young but I'm makin' millions to work the night shift
+Work, work the night shift
+
+If you were worried about where
+I've been or who I saw or
+What club I went to with the homies
+Baby don't worry, you know that you got me
+I'm never worried about where
+I'm at or who I saw or
+What club I go to with the homies
+Baby don't worry, I know that they got me</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

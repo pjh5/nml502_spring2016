@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Drake f/ Detail
+Album:  Nothing Was the Same
+Song:   305 to My City
+Typed by: AZ Lyrics
+
+[Intro]
+Drop down, drop-drop
+Shit is real out here
+Drop down, drop-drop
+Drop down, drop-drop, get it
+Get it, drop down, drop-drop
+
+[Chorus]
+Ooo, 305 to my city
+I get it I get it
+I get it I get it I swear that I get it
+I get it I get it
+We did it we did it
+We did it we did it
+We so far from finished
+I brought you right back just so we can relive it
+I get it I get it, I get it I get it
+Your hustle don't ever go unnoticed baby, I'm with you I'm with it
+I get it I get it, I get it I get it
+I get it I get it
+
+[Verse 1]
+They don't work hard as you, damn that's so crazy
+At the end of the night when you count, numbers don't lie to my baby
+Locker room full of money, girl you just did
+I get it I get it, man fuck all that talking, take shots to the kidney
+Down payment on the Jaguar, your roommate got credit
+12 months on the lease, that's a come up baby don't you ever forget it
+Connections are heavy, every real nigga they fuck with you
+Now shit down in diamonds, you sparkle but fuck man is sparklin' enough for you?
+
+[Chorus]
+Ooo, 305 to my city
+I get it I get it
+I get it I get it I swear that I get it
+I get it I get it
+We did it we did it
+We did it we did it
+We so far from finished
+I brought you right back just so we can relive it
+I get it I get it, I get it I get it
+Your hustle don't ever go unnoticed baby, I'm with you I'm with it
+I get it I get it, I get it I get it
+I get it I get it
+
+[Verse 2]
+Tonight was your night, go get you some lobsters and shrimp
+You smart and you know it, I get it I get it you outdo these pimps
+I hope you don't fall, that's you on the top of the ceiling
+Don't you ever forget 'bout your story, I get it, you did it you did it
+Got a lake on the champagne, your best friend is bar-tending
+Your parents sayin' this another phase in your life
+They can't wait until it's all finished
+Shine on them hoes, let 'em know that you run shit
+I get it I get it, I'm workin' too hard let's get into some fun shit
+281 in my city, heard you had trouble at customs
+Your girl got a DUI, I'll make the calls to get y'all through customs
+Tell your best friend, "Girl get your paperwork right"
+I get it I get it, what's up for the night?
+
+[Chorus]
+Ooo, 305 to my city
+I get it I get it
+I get it I get it I swear that I get it
+I get it I get it
+We did it we did it
+We did it we did it
+We so far from finished
+I brought you right back just so we can relive it
+I get it I get it, I get it I get it
+Your hustle don't ever go unnoticed baby, I'm with you I'm with it
+I get it I get it, I get it I get it
+I get it I get it
+
+[Outro]
+Your momma used to live at the church on Sunday
+You just live after church on Sunday
+Oh Lord, oh Lord we're not in Kansas anymore
+We're not in Kansas anymore</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

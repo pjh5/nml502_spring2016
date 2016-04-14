@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Childish Gambino
+Album:  Royalty
+Song:   We Ain't Them
+Typed by: Nickolye16@aol.com 
+
+[Childish Gambino]
+Pickin out my 'fro with my fist comb
+I got a tab at the Stone baby, this long
+My little brother was havin a little trouble
+I hope that he doesn't care that it's in this song
+Korean town lunchin, talkin 'bout how to run things
+He said Atlanta wanted somethin
+Waka, Jeezy and Future got the streets locked down
+Copycats makin sure Tip keep that crown
+I'm fuckin 'round with the truth, went to see The Roots
+Quest brought me back on stage in a suit
+I went hard cause niggaz say that I'm soft
+Even Black Thought thought I maimed it a little hard - I gotta be honest
+Feelin like the other stuff is kinda behind us
+Makin jokes here and there done got us some dollars
+I'm tryna show the whole world what it is and it ain't a game
+He said homie stay the course, ain't shit changed
+Weird night and everybody was tipsy
+Hangin out with Questlove reminiscin 'bout Whitney
+He like, "Man, we can't even make it to 50?"
+That reminds me - I sent a long text message to my mom and pop
+I got the same speech when I left "30 Rock"
+My mom like, "Why you wanna leave a good job?"
+My dad like, "Do your thing boy, don't stop"
+Shout out to my nigga Lud, shout out to my nigga Swank
+For hangin at the crib and tellin me what you think
+"Speak from your heart, and never compromise what you feel is real
+And never let these white people tell you how to feel
+Never let anybody tell you how to feel"
+I wanted what they had back in the fourth grade
+Family vacas, you know I did it all
+Just to see my little sis by a waterfall
+My great granddad bought his own freedom
+Walk barefoot to Virginia to start his own peanut farm
+So don't be alarmed - man I'm royalty
+Jam of the week, V103
+No cosign, no bovine
+More swag, pull back on the punchlines
+Starvin, every track means lunch time
+I'm a star, how could I not shine?
+Fuck boys chase hype-track chicks
+And niggaz who stopped textin after 1.6
+DG Lover ain't nothin to fuck with
+D-Money ain't nothin to fuck with
+And what's a leader if he isn't reluctant?
+Too bad for y'all, I'm blastin off
+I'm not Asher Roth, I don't sleep on my bread
+Dick-riders stay close, I might flash a ball
+Sometimes, all this shit make a nigga feel guilty
+I used to sleep with them roaches
+Back of my mind though, I hope the show gets cancelled
+Maybe then I can focus
+Hawaii touch down, go ahead baby put your shades on
+East Side! East Side to the gravestone!
+Brown liquor but my girl in Bed-Stuy
+Nigga you got +Drive+ like a sale at Best Buy!
+Uh, hold up, hold up, we could do better
+Put my voice on the track, man that shit is much wetter
+At the studio at 8 AM
+Hit the booth then eat, nigga we ain't them, nigga we ain't them!
+Drop a line, it's your Facebook status
+Said that shit about a week ago, you still mad at us
+If there's somethin on your chest, nigga let it out
+Cause I'm the best - da da da
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

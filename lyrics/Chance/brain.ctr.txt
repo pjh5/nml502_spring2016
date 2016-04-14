@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Chance The Rapper
+Album:  10 Day (Mixtape)
+Song:   Brain Cells
+Typed by: AZ Lyrics
+
+[Chorus]
+I burned too many Brain Cells down
+To be worried bout my Brain Cells Now [x4]
+
+[Verse 1]
+Here's a tab of acid for your ear
+You're the plastic, I'm the passion and the magic in the air
+The flabbergasted avalanche of ambulances near
+The labyrinth of Pan's Lab is adamantly here
+No assignments, book of rhyming and I'm drawing doodles
+I should rhyme rhyme with Ramen Noodles
+Ramadan, I'm the don of the diamond jewels
+Fond of finding a way to kindly tell these toddlers toodles
+I'm a kamikaze and I'm a kinda cuckoo
+I could write a fucking book, non kamasutral
+You niggas goofies since a conflict that is kinda crucial
+Caught you on the 9 in all blue yelling I'm a neutral
+But I'm a let the bull pass like matadors
+Versus a Minotaur
+Verse is a metaphor
+A metamorphoses and I'm a fuckin animorph
+I used to go to school with Anna Fedele & Danny Whorf
+Remember I used to bang with bad ones
+'Til my grandmama told on her grandson
+Mama said that I was way too handsome
+To be throwing the hand's son"
+Breaking Walls like Samson
+But I'm a throw a tantrum
+'Til I'm on Every Samsung
+Sanyo, and Handheld and Handgun
+Please Put ya lighter's up
+'Til life is up
+And light it up
+And slice a cut
+The night is young
+It's nice enough
+The nicest blunt
+The nicest stuff
+My niggas out here trapping a lot
+I know you think you on
+Hiding Reggie sacks in your socks
+I hang with niggas, whole jab in the jock
+.4's for 15, yea my niggas we be taxing a lot
+Only to goofies tho, choking on a doobie though
+My eyes do be low, two be rolled
+Remember days of the Rufio
+Remember the Days of Chan-Man and the Skeeter Man
+Brrrang Dang to Lil' B
+And Bang a Rang to Peter Pan
+
+[Chorus]
+
+[Verse 2]
+Light a joint
+Or spliff it if you classy
+Split a swisha witcha nigga
+If you ask me
+Ain't no questions hit it vividly and pass me
+Don't answer about your problems
+Or your issues or your Ashleys
+It's a quarter to imminent, ten minutes to infinite
+Rims, Henny, and reminisce
+Nostalgia and M&M's
+Cinnamon tone women and
+Feminine's getting intimate
+All broads is frivolous
+Homies could get they dividends
+Damn, is he illiterate, literal syndicate
+Illegitimate, idiot, gangbanger affiliate
+Sick twisted prick, sick sadistic son of a biscuit
+Man fuck this shit
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

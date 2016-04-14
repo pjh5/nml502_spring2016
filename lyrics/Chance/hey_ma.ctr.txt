@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Chance The Rapper f/ Lili K, Peter CottonTale
+Album:  10 Day (Mixtape)
+Song:   Hey Ma
+Typed by: AZ Lyrics
+
+[Intro]
+Hey Ma, hey Ma, hey Ma
+Hey Ma, hey Ma, hey Ma
+
+[Verse 1]
+I said 'Hey Ma', don't go stretching your wallet
+These niggas gotta pay me for taking a year from college
+Go on get ya nails polished, stylist for your eyelids
+And a pilot for your mileage for them frequent flights to your island
+Ms. Brown and Ms. Polleck, little boy done grown up
+Little voice done blown up, middle-class that bonus
+Hey Ma, Hey Mama Jan; God just gave me another chance
+Rod just gave me another line, probably gave me another fan
+7-7-3, Oh, since Kanye was a three-old
+Down the street from D. Rose, was practicing his free-throws
+Shout out to that Gulf Shrimp, shout out to King Gyro
+Shout out that Ms. Moody, auntie Toni them my heroes
+
+[Chorus: x2]
+We gon' get this paper, put that on my mama
+You gon' see us later, put that on my mama
+Monica and Ava, thanks for all the favors
+Got my money saved up, put that on my mama
+
+[Verse 2]
+Hey Ma, hey Ma I know I never did behave a lot
+Never got good grades a lot
+And turned your hairs to grays a lot
+And go in stores and take a lot
+And never shopped but saved a lot
+So you ain't gotta shop at Save A Lot
+And you ain't gotta worry about Chase a lot
+They playing with your checks, your shit
+Cause they gonna take your pay or not
+Que Sera gotta then, fuck them niggas you smarter than
+We just gonna beg your pardon them
+Save Money, my partner and them
+I'm part of them, It's part of me
+This Save Mula, Bo Squarter III
+I'm riding around my side of town
+Hot boxing no cops around
+I had the tux I had the gown
+Just had a show, just had to bounce
+It's Chance ho, #10Day
+Chano no hable englais
+That language be that chanish but ooh! Muy caliente
+So she just gonna throw her steps on
+And haters gonna throw that epsom
+And we just gonna throw a party
+And I'm gonna just throw my teflon
+Cause family be that plug though
+And I ain't even flexin
+But twin bro be that Victor
+And Big Cause be that Chef Sean
+
+[Bridge: x2]
+I said don't stop, in what you be
+In what you do, don't stop
+
+[Chorus]
+
+[Outro]
+Ayo I wanna thank, MC Tree mama
+I wanna thank Fox mama, I wanna thank Robbie mama
+Lili mama, Peter mama
+MY mama, my dad mama
+Your mama, I wanna thank moms
+I wanna thank, L-Boog mama, I wanna thank Tom Fool mama
+I wanna thank, Talent mama, Marcus mama
+I wanna thank, Thelonious mama, Vic mama, Reese mama
+I just wanna, I wanna thank anybody whose been a mother to a motherless child
+I love you mommy
+10Day
+I hope y'all had a good time
+Agh!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>
