@@ -21,6 +21,10 @@ scale = 0.85;
 [f_scalex, f_unscalex] = scaling_functions(Xraw, scale, true);
 [f_scaley, f_unscaley] = scaling_functions(Yraw, 1, false);
 
+% Visualize the inputs
+clabels = max(Yraw, [], 2);
+feature_fig = plot_vectors(f_scalex(Xraw), clabels);
+
 % Split up data into sets
 X_train = f_scalex(Xraw(          1:n_train, :));
 X_test  = f_scalex(Xraw((n_train+1):end    , :));
