@@ -53,11 +53,11 @@ function [W_1, W_2, train_e, test_e, s_epochs, steps] = ...
         Yk = Y(idx,:);
 
         %% Forward Propogate
-        [drop1,fNET1,drop2,fNET2] = forward_prop(Xk, W_1, W_2, drop_p);
+        [d1,fNET1,~,fNET2] = forward_prop(Xk, W_1, W_2, drop_p);
         
         %% Backward Propogate
-        delta_2 = drop2 .* (Yk - fNET2) .* (1 - fNET2.^2);
-        delta_1 = drop1 .* (1 - fNET1.^2) .* (delta_2 * W_2(:,2:end));
+        delta_2 = (Yk - fNET2) .* (1 - fNET2.^2);
+        delta_1 = (1 - fNET1.^2) .* (delta_2 * W_2(:,2:end));
         
         %% Update Weights
         W_1d = learn_rate*(delta_1' * [ones(K,1) , Xk] / K...
@@ -70,11 +70,11 @@ function [W_1, W_2, train_e, test_e, s_epochs, steps] = ...
         W_2p = W_2d;
         
         %% Calculate train error
-        [~, train_error] = BPrecall(Xk, Yk, W_1, W_2, 0, f_error);
+        [~, train_error] = BPrecall(Xk, Yk, W_1, W_2, f_error);
         
         %% Display periodic progress
         if (mod(epoch,max_epochs / 1000) == 0)
-            [~,test_error] = BPrecall(Xt, Yt, W_1, W_2, 0, f_error);
+            [~,test_error] = BPrecall(Xt, Yt, W_1, W_2, f_error);
             
             % Log
             fprintf(log_file, ['Step %10d: training error is' ...
@@ -103,7 +103,7 @@ function [W_1, W_2, train_e, test_e, s_epochs, steps] = ...
             
             train_e(samples_taken) = train_error;
             [~,test_e(samples_taken)] ...
-                = BPrecall(Xt, Yt, W_1, W_2, 0, f_error);
+                = BPrecall(Xt, Yt, W_1, W_2, f_error);
             break;
         end
         
@@ -112,7 +112,7 @@ function [W_1, W_2, train_e, test_e, s_epochs, steps] = ...
         if (numel(sample_idx) == 1)
             train_e(sample_idx) = train_error;
             [~,test_e(sample_idx)] ...
-                = BPrecall(Xt, Yt, W_1, W_2, 0, f_error);
+                = BPrecall(Xt, Yt, W_1, W_2, f_error);
             samples_taken = samples_taken + 1;
         end
     end
