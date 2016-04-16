@@ -13,8 +13,8 @@ n_train = round(PERCENT_TRAINING * M);
 % Split data into train and test
 rawData = rawData(randperm(M), :);
 Xraw = rawData(:, 2:end);
-Yraw = rawData(:, 1);
-Yraw = index_to_vector(Yraw, max(max(Yraw)));
+clabs = rawData(:, 1);
+Yraw = index_to_vector(clabs, max(max(clabs)));
 
 % Scaling Functions
 scale = 0.85;
@@ -22,8 +22,11 @@ scale = 0.85;
 [f_scaley, f_unscaley] = scaling_functions(Yraw, 1, false);
 
 % Visualize the inputs
-clabels = max(Yraw, [], 2);
-feature_fig = plot_vectors(f_scalex(Xraw), clabels);
+feature_fig = plot_vectors(f_scalex(Xraw), clabs);
+legend({'Artist 1', 'Artist 2', 'Artist 3', ...
+    'Artist 4', 'Artist 5', 'Artist 6', ...
+    'Artist 7', 'Artist 8', 'Artist 9', ...
+    'Artist 10'})
 
 % Split up data into sets
 X_train = f_scalex(Xraw(          1:n_train, :));
