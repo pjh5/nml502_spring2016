@@ -1,6 +1,7 @@
 import os
 import re
 import porter_stemmer
+from nltk.corpus import stopwords
 import operator
 import csv
 
@@ -30,13 +31,23 @@ def main():
 			words = ' '.join(words)
 			with open("allwords.txt", "a") as wordfile:
 				wordfile.write(words)
-
-	ordered_words = sorted(word_counts.items(), key=operator.itemgetter(1))
+	
+	# All temmed words ordered by frequency
+	ordered_words = sorted(word_counts.items(), key=operator.itemgetter(1), reverse=True)
 	with open('top_stemmed_words.csv', 'wb') as csvfile:
-		csvwriter = csv.writer(csvfile, delimiter=',',
-								quotechar='|', quoting=csv.QUOTE_MINIMAL)
+		csvwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+		
 		for i in range(len(ordered_words)):
-			csvwriter.writerow([i, ordered_words[i][0], ordered_words[i][1]])
+			csvwriter.writerow([ordered_words[i][0], ordered_words[i][1]])
+	
+	# Non-stop words ordered by frequence
+	english_stopwords = [p.stem(w, 0, len(w)-1) for w in stopwords.words('english')]
+	with open('stemmed_nonstop_words.csv', 'wb') as csvfile:
+		csvwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+		
+		for i in range(len(ordered_words)):
+			if (ordered_words[i][0] not in english_stopwords):
+				csvwriter.writerow([ordered_words[i][0], ordered_words[i][1]])
 
 if __name__ == '__main__':
 	main()
