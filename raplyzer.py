@@ -12,7 +12,7 @@ import sys
 from lyrics import Lyrics
 
 def read_lyrics(lyrics_dir='lyrics', 
-				print_stats=False, language='en-us', lookback=15):
+				print_stats=False, language='en-us', lookback=30):
 	'''
 	Read lyrics and compute Rhyme factor (riimikerroin) for each
 	artist.
@@ -69,7 +69,7 @@ def read_lyrics(lyrics_dir='lyrics',
 				# per_uwords = n_uwords / float(n_words)
 
 				# Add the statistics to the csv file
-				with open('raplyzer_out.csv', 'a') as csvfile:
+				with open('raplyzer_out.csv', 'ab') as csvfile:
 					csvwriter = csv.writer(csvfile, delimiter=',',
 											quotechar='|', quoting=csv.QUOTE_MINIMAL)
 					csvwriter.writerow([a, song, long_r[0], avg_r])
