@@ -1,15 +1,15 @@
 function rapLearning
-features = csvread('fullestfeatures.csv',1);
+features = csvread('fullfeatures.csv',1);
 clc
 close all
-[M, d] = size(features);
-numClasses = 10;
+M = size(features,1)
+numClasses = 7;
 desired = zeros(M,numClasses);
 for song = 1:M
    desired(song,features(song,1)) = 1;       
 end
 desired=2*desired-1;
-inputs=features(:,2:end);
+inputs=features(:,[2:end]);
 [~,d] = size(inputs);
 scaleparams=zeros(2,size(inputs,2));
 for i=1:size(inputs,2)
@@ -20,29 +20,37 @@ end
 
 % Split into training and testing 
 
+
+for i=1:15
 allData = [inputs desired];
 randData = allData(randperm(M), :);
-perc=.7;
+perc=.75;
 X_train = randData(1:ceil(M*perc), 1:d);
 X_test = randData((ceil(M*perc) + 1):end, 1:d);
 D_train = randData(1:ceil(M*perc), (d + 1):end);
 D_test = randData((ceil(M*perc) + 1):end, (d + 1):end);
-alpha=.001;
-nepoch=2500;
+alpha=.0005;
+nepoch=1000;
 a=0;
 errstop=.01;
 
 
-[Wx,Wy,trainerr,testerr]=trainMLP(d,20,10,alpha,X_train,D_train,X_test,D_test,nepoch,a,errstop,scaleparams);
-plot(trainerr)
+[Wx,Wy,trainerr,testerr]=trainMLP(d,8,7,alpha,X_train,D_train,X_test,D_test,nepoch,a,errstop,scaleparams);
+ertr(i)=trainerr(end)
+erte(i)=testerr(end)
+
+figure
+plot(0:M*perc:M*perc*1000,1:trainerr)
 hold on
-plot(testerr,'r')
+plot(0:M*perc:M*perc*1000,testerr,'r')
 title('Learning history');
-xlabel('Learn step (xEpochSize');
+xlabel('Learn step (Epoch Learning)');
 ylabel('Misclassification Rate');
 legend('training error','testing error')
-    
 
+ end   
+mean(ertr)
+mean(erte)
 end
 function [fNET2] = recall(W1,W2,xtest, K)
     fNET1 = tanh(W1*[ones(1,K);xtest']);
